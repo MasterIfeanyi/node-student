@@ -1,6 +1,6 @@
 # Getting Started
 
-This is the backend REST API for the web app I built, click the link [student](https://ifeanyi-student.netlify.app) to view it.
+This is the backend REST API for the web app I built, click the link [student](https://ifeanyi-typescript-student.netlify.app) to view it.
 
 To run the app use `npm start`
 
